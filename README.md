@@ -100,24 +100,6 @@ Selected examples of practical projects:
 - **Economics & Financial Markets:** Macroeconomics, financial markets and fundamentals-based value investing.
 - **Technology & Value Creation:** Leveraging AI and software to build workflows, automate processes, improve efficiency and support better decision-making.
 
-## Education
-
-**M.Sc. in Software Engineering** — ongoing  
-
-Major: Software Engineering<br>
-Minor: Industrial Engineering and Management
-
-**B.Sc. in Computer Science**
-
-Minors: Statistics and Industrial Engineering and Management<br>
-Bachelor's thesis: *A Survey of Software Architectures for Embedded Systems* (written in Finnish).
-
-## Interests Outside Technology
-
-- Macroeconomics, finance and fundamentals-based value investing
-- Strength training and cycling
-- Outdoors and nature
-
 ---
 
 ## Contact
