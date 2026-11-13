@@ -72,7 +72,7 @@ These statistics cover only my public repositories and do not represent all the 
 Selected projects with publicly released or deployed versions:
 
 - **[SAI Commerce](https://spectrumaudio.net)** — Production e-commerce platform for Spectrum Audio Instruments.
-- **[MiniMRP](https://github.com/hansimb/MiniMRP](https://minimrp.onrender.com/))** (Live demo) — Material requirements planning application with a publicly available Windows desktop release.
+- **[MiniMRP](https://minimrp.onrender.com/)** (Live demo) — Material requirements planning application with a publicly available Windows desktop release.
 - **[imberg.dev](https://imberg.dev)** — Personal website and portfolio platform.
 - **[FocusGym](https://focusgym.vercel.app)** — Cross-platform fitness application with a publicly available web version.
 - **[FocusBlock](https://focusblock-ten.vercel.app)** (Web demo version (unoptimized)) — Productivity and time-blocking application (android).
