@@ -120,7 +120,7 @@ Bachelor's thesis: *A Survey of Software Architectures for Embedded Systems* (wr
 
 ## Contact
 
-Interested in collaborating on interesting projects? Feel free to reach out here or by email.
+Interested in collaborating on interesting projects? Feel free to reach out.
 
 **Email:** [hans@imberg.dev](mailto\:hans@imberg.dev)
 **Website:** [imberg.dev](https://imberg.dev)
