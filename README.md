@@ -19,10 +19,6 @@ Tools and technologies vary depending on the domain, requirements, objectives an
 
 The following are technologies and tools I have worked with through practical projects and studies.
 
-**Languages used in my public GitHub repositories:**
-
-[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=hansimb&layout=donut&hide=c%2B%2B,cmake,swift,c)](https://github.com/stats-organization/github-stats-extended)
-
 **Agentic Engineering**
 
 - Codex
@@ -40,6 +36,12 @@ The following are technologies and tools I have worked with through practical pr
 - Python
 - R
 - Dart
+
+**Languages used in my public GitHub repositories:**
+These statistics cover only my public repositories and do not represent all the languages I've worked with. Other projects have also involved languages such as C, Java, and R.
+
+[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=hansimb&layout=donut&hide=c%2B%2B,cmake,swift,c)](https://github.com/stats-organization/github-stats-extended)
+
 
 **Libraries & Frameworks**
 
