@@ -65,19 +65,19 @@ These statistics cover only my public repositories and do not represent all the 
 - Microsoft Azure
 - AWS
 
-## Areas of Interest
-
-- **Business & Operations:** Business domain understanding, business strategy, operations, process analysis and optimization, particularly from an industrial engineering and management perspective.
-- **Economics & Financial Markets:** Macroeconomics, financial markets and fundamentals-based value investing.
-- **Technology & Value Creation:** Leveraging AI and software to build workflows, automate processes, improve efficiency and support better decision-making.
-
 ## Practical Project Experience
 
-Selected areas covered by practical projects and studies:
+## Public Projects & Deployments
 
-## Practical Project Experience
+Selected projects with publicly released or deployed versions:
 
-Selected examples of practical projects and studies:
+- **[SAI Commerce](https://spectrumaudio.net)** — Production e-commerce platform for Spectrum Audio Instruments.
+- **[MiniMRP](https://github.com/hansimb/MiniMRP](https://minimrp.onrender.com/))** (Live demo) — Material requirements planning application with a publicly available Windows desktop release.
+- **[imberg.dev](https://imberg.dev)** — Personal website and portfolio platform.
+- **[FocusGym](https://focusgym.vercel.app)** — Cross-platform fitness application with a publicly available web version.
+- **[FocusBlock](https://focusblock-ten.vercel.app)** (Web demo version (unoptimized)) — Web-based productivity and time-blocking application.
+
+Selected examples of practical projects:
 
 - **Data Engineering & Financial Analytics:** [Macro Valuation Desk](https://github.com/hansimb/macro-valuation-desk) — A local-first research platform for macroeconomic, currency and equity valuation analysis. Includes data pipelines, ETL processes, interactive dashboards, valuation tools and a structured data architecture.
 - **Enterprise Systems & Business Processes:** [MiniMRP](https://github.com/hansimb/MiniMRP) — An MRP system for small businesses, covering product management, bills of materials (BOMs), inventory, production planning, material requirements and purchasing. Designed around a local-first architecture with desktop and web application targets.
@@ -93,6 +93,12 @@ Selected examples of practical projects and studies:
 - **Restaurant Industry:** Previous professional background as a chef.
 - **Agriculture:** Seasonal work experience.
 - **Real Estate:** Personal interest and work experience in real estate sales.
+
+## Areas of Interest
+
+- **Business & Operations:** Business domain understanding, business strategy, operations, process analysis and optimization, particularly from an industrial engineering and management perspective.
+- **Economics & Financial Markets:** Macroeconomics, financial markets and fundamentals-based value investing.
+- **Technology & Value Creation:** Leveraging AI and software to build workflows, automate processes, improve efficiency and support better decision-making.
 
 ## Education
 
