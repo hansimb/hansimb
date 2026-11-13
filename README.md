@@ -75,7 +75,7 @@ Selected projects with publicly released or deployed versions:
 - **[MiniMRP](https://github.com/hansimb/MiniMRP](https://minimrp.onrender.com/))** (Live demo) — Material requirements planning application with a publicly available Windows desktop release.
 - **[imberg.dev](https://imberg.dev)** — Personal website and portfolio platform.
 - **[FocusGym](https://focusgym.vercel.app)** — Cross-platform fitness application with a publicly available web version.
-- **[FocusBlock](https://focusblock-ten.vercel.app)** (Web demo version (unoptimized)) — Web-based productivity and time-blocking application.
+- **[FocusBlock](https://focusblock-ten.vercel.app)** (Web demo version (unoptimized)) — Productivity and time-blocking application (android).
 
 Selected examples of practical projects:
 
