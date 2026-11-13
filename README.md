@@ -102,8 +102,6 @@ Selected examples of practical projects:
 
 ## Education
 
-## Education
-
 **M.Sc. in Software Engineering** — ongoing  
 
 Major: Software Engineering<br>
