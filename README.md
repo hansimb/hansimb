@@ -104,20 +104,13 @@ Selected examples of practical projects:
 
 **M.Sc. in Software Engineering** — ongoing
 
-
 Major: Software Engineering
-
 Minor: Industrial Engineering and Management
-
-
 
 **B.Sc. in Computer Science**
 
 Minors: Statistics and Industrial Engineering and Management
-
 Bachelor's thesis: *A Survey of Software Architectures for Embedded Systems* (written in Finnish).
-
-
 
 ## Interests Outside Technology
 
