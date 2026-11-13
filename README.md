@@ -88,8 +88,8 @@ Selected projects with publicly released or deployed versions:
 ## Additional Areas of Expertise
 
 - **Entrepreneurship:** E-commerce, digital business and digital marketing.
-- **Industrial Engineering & Management:** Business processes, operations management and business development. (minors)
-- **Statistics & Data Analysis:** Statistical methods, quantitative analysis and data interpretation. (minor)
+- **Industrial Engineering & Management:** Business development, process and project management, innovation management and systems thinking. (minors)
+- **Statistics & Data Analysis:** Statistical reasoning, statistical methods, quantitative analysis and data interpretation. (minor)
 - **Restaurant Industry:** Previous professional background as a chef.
 - **Agriculture:** Seasonal work experience.
 - **Real Estate:** Personal interest and work experience in real estate sales.
