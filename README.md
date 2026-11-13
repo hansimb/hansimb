@@ -67,7 +67,7 @@ These statistics cover only my public repositories and do not represent all the 
 
 ## Practical Project Experience
 
-## Public Projects & Deployments
+### Public Projects & Deployments
 
 Selected projects with publicly released or deployed versions:
 
@@ -77,7 +77,7 @@ Selected projects with publicly released or deployed versions:
 - **[FocusGym](https://focusgym.vercel.app)** — Cross-platform fitness application with a publicly available web version.
 - **[FocusBlock](https://focusblock-ten.vercel.app)** (Web demo version (unoptimized)) — Productivity and time-blocking application (android).
 
-Selected examples of practical projects:
+### Selected examples of practical projects:
 
 - **Data Engineering & Financial Analytics:** [Macro Valuation Desk](https://github.com/hansimb/macro-valuation-desk) — A local-first research platform for macroeconomic, currency and equity valuation analysis. Includes data pipelines, ETL processes, interactive dashboards, valuation tools and a structured data architecture.
 - **Enterprise Systems & Business Processes:** [MiniMRP](https://github.com/hansimb/MiniMRP) — An MRP system for small businesses, covering product management, bills of materials (BOMs), inventory, production planning, material requirements and purchasing. Designed around a local-first architecture with desktop and web application targets.
